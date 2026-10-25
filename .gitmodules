@@ -1,0 +1,3 @@
+[submodule "gitmodules/Kinoko"]
+	path = gitmodules/Kinoko
+	url = https://github.com/pdeblois/Kinoko
